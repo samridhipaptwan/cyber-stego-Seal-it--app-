@@ -102,9 +102,4 @@ pip install -r requirements.txt
 
 ---
 
- ▶️ How to Run  
-
-1️⃣ Install Dependencies**
-
-pip install -r requirements.txt
 
